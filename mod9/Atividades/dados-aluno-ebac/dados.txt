@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Renata
+-Profissão: Analista de Qualidade Jr
+-Cidade: São Paulo
+-O que faz nas horas vaga: Brinco com meu cachorro, faço costura criativa, vejo filmes ou leio livros.
+-Feedback sobre o curso Qualidade de Software: Hahaha, espertinhos. O Curso está atendendo todas minhas expectativas. A didática está clara e as aulas são interessantes.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é fácil e agradável de usar, raramente apresenta alguma instabilidade.
+
+Obrigado!!!
+
+
