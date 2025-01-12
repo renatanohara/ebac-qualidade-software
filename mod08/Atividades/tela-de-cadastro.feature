@@ -9,9 +9,7 @@
             Dado que eu acesse a página de Checkout da loja virtual EBAC-SHOP
 
             Esquema do Cenário: Campos obrigatórios em branco
-            Quando eu preencher todos os campos do "Detalhes de Faturamente" com valores válidos
-            E deixar o campo obrigatório <campo> em branco
-            E clicar no botão "Finalizar Compra"
+            Quando deixar o campo obrigatório <campo> em branco
             Então deve exibir a mensagem "Necessário preencher todos os campos identificados com *"
 
             Exemplos:
@@ -26,9 +24,7 @@
             | e-mail    |
 
             Esquema do Cenário: Validaçao do formato do e-mail
-            Quando eu preencher todos os campos do "Detalhes de Faturamente" com valores válidos
-            E preencher o campo e-mail com o <email>
-            E clicar no botão "Finalizar Compra"
+            Quando preencher o campo e-mail com o <email>
             Então deve exibir a mensagem <mensagem>
 
             | email                          | mensagem                                 |

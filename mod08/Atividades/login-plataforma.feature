@@ -9,14 +9,11 @@
             Dado que eu acesse a página de autenticaçao da loja virtual EBAC-SHOP
 
             Cenario: Autenticaçao Válida
-            Quando eu digitar o usuário "usuario_valido@ebacshop.com.br"
-            E a senha "senha_valida@123"
+            Quando eu digitar o usuário "usuario_valido@ebacshop.com.br" e a senha "senha_valida@123"
             Entao deve redirecionar para tela de checkout da conta logada
 
-
-            Cenario: Autenticaçao Inválida
-            Quando eu digitar o usuário <usuario>
-            E a senha <senha>
+            Esquema do Cenário: Autenticaçao Inválida
+            Quando eu digitar o usuário <usuario> e a senha <senha>
             Entao deve exibir a alerta <alerta>
 
             | usuario                            | senha                  | alerta                       |

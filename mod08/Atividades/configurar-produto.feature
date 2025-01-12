@@ -10,14 +10,10 @@
             Dado que eu esteja na página do produto da EBAC-SHOP que desejo adicionar ao carrinho
 
             Esquema do Cenário: Configurar produto
-            Quando eu selecionar o tamanho <tamanho>
-            E a cor <cor>
-            E a quantidade <quantidade>
-            E clicar me "Adicionar ao carrinho"
+            Quando eu selecionar o tamanho <tamanho>, a cor <cor> e a quantidade <quantidade>
             Entao o sistema irá exibir a <mensagem>
 
             Exemplos:
-
             | tamanho | cor    | quantidade | mensagem                                      |
             | null    | null   | null       | "Necessário selecionar um tamanho"            |
             | "S"     | Null   | 5          | "Necessário selecionar uma cor"               |
