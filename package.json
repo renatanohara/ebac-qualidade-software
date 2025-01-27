@@ -19,5 +19,6 @@
   "homepage": "https://github.com/renatanohara/ebac-qualidade-software#readme",
   "dependencies": {
     "cypress": "^13.6.0"
-  }
+  },
+  "devDependencies": {}
 }
