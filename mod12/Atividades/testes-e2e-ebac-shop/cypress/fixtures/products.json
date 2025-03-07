@@ -1,0 +1,27 @@
+[
+    {
+        "productName": "Lucia Cross-Fit Bra",
+        "size": "S",
+        "color": "Black",
+        "qtd": 3
+    },
+    {
+        "productName": "Miko Pullover Hoodie",
+        "size": "M",
+        "color": "Purple",
+        "qtd": 2
+    },
+    {
+        "productName": "Meteor Workout Short",
+        "size": "36",
+        "color": "Blue",
+        "qtd": 4
+    },
+    {
+        "productName": "Selene Yoga Hoodie",
+        "size": "XL",
+        "color": "White",
+        "qtd": 1
+    }
+
+]
