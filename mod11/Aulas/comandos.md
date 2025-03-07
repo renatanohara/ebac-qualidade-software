@@ -8,7 +8,7 @@ OU
 npm install cypress@13.6.0
 
 #### Comandos:
-npm init -y
+npm init -y (apenas 1x na configuração)
 npx cypress open
 
 #### Instalar faker.js

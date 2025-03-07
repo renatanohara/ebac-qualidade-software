@@ -1,0 +1,27 @@
+[
+    {
+        "nomeProduto": "Josie Yoga Jacket",
+        "tamanho": "S",
+        "cor": "Black",
+        "quantidade": 1
+    },
+    {
+        "nomeProduto": "Erica Evercool Sports Bra",
+        "tamanho": "XS",
+        "cor": "Blue",
+        "quantidade": 10
+    },
+    {
+        "nomeProduto": "Mona Pullover Hoodlie",
+        "tamanho": "M",
+        "cor": "Purple",
+        "quantidade": 4
+    },
+    {
+        "nomeProduto": "Geo Insulated Jogging Pant",
+        "tamanho": "34",
+        "cor": "Blue",
+        "quantidade": 2
+    }
+
+]

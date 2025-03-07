@@ -424,3 +424,7 @@ system-tests/lib/validations
 
 .nx/cache
 .nx/workspace-data
+
+
+videos/
+screenshots/
